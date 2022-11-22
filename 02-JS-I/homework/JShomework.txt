@@ -1,0 +1,20 @@
+Variables: 
+	Las variables son la manera como los programadores le dan nombre a un valor para poder reusarlo, actualizarlo o simplemente registrarlo. Las variables se pueden usar para guardar cualquier tipo de dato en JavaScript.
+
+Strings:
+	Un String es un bloque de texto, que se utiliza para representar datos textuales
+
+Funciones:
+	Una función en JavaScript es similar a un procedimiento, es un conjunto de instrucciones que realiza una tarea o calcula un valor, pero para que un procedimiento califique como función, debe tomar alguna entrada y devolver una salida donde hay alguna relación obvia entre la entrada y la salida.
+La anatomía de la funcion comienza con la palabra "function", indicando que esto es una funcion. Luego vienen un parentesis abierto y uno cerrado. Y finalmente un abra y cierra corchetes.
+Dentro de los parentesis podemos asignar una variable, que ahora tendrá el nombre de Argumento.
+Podemos usar "return", como declaracion de retorno. Ya que no utilizaremos siempre console.log. Es tambien la unica manera en que datos escapan de una función.
+Si intentamos console.log a algo que declaramos dentro de una funcion, devolverá undefined.
+
+Declaraciones:
+	IF es una estructura de control de flujo utilizada para tomar decisiones. Es un condicional que sirve para realizar unas u otras operaciones en función de una expresión. Funciona de la siguiente manera, primero se evalúa una expresión, si da resultado positivo se realizan las acciones relacionadas con el caso positivo, sino se realizan las acciones relacionadas con el caso negativo.
+
+Valores Booleanos:
+	 Provienen de la lógica de Boole. En JS se usan booleanos para significar verdadero o falso ( true o false ).
+
+	
